@@ -96,6 +96,5 @@ npm run set-message
 ### 9. Finsihed
 
 Github  : [sanztiva](https://github.com/sanztiva)
-X       : @ragilezy
 
 Address Testnet Swisstronik 0x499da0675ddAE1589c6A4FC9BD6E254b4E8844dB
