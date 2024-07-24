@@ -95,7 +95,6 @@ npm run set-message
 
 ### 9. Finsihed
 
-By :
 Github  : [sanztiva](https://github.com/sanztiva)
 X       : @ragilezy
 
