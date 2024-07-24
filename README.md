@@ -93,7 +93,7 @@ npm run get-message
 npm run set-message
 ```
 
-### 9. Finsihed
+### Finished.
 
 Github  : [sanztiva](https://github.com/sanztiva)
 
