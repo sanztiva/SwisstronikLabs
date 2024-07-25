@@ -34,6 +34,7 @@ PRIVATE_KEY="your private key"
 - Create Hello_swtr.sol file
 - Copy this code and paste there
 
+```
 /// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.19;
 
@@ -66,6 +67,7 @@ contract Swisstronik {
         return message;
     }
 }
+```
 
 ### 5. Compile Smart Contract
 
